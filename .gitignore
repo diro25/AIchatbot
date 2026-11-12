@@ -1,0 +1,14 @@
+node_modules/
+client/dist/
+server/data/*.db
+server/data/*.db-*
+server/.env
+.env
+.env.*
+!.env.example
+client/.env
+client/.env.*
+!client/.env.example
+.DS_Store
+npm-debug.log*
+pnpm-debug.log*

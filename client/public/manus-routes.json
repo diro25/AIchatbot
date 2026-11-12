@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Signal Room"},{"path":"/login","title":"Log in"},{"path":"/register","title":"Create account"},{"path":"/chat","title":"Conversations"},{"path":"/chat/:conversationId","title":"Conversation"}]}
